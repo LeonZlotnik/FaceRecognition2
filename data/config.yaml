@@ -1,0 +1,6 @@
+train: /content/FaceRecognition2/data/test/images
+val: /content/FaceRecognition2/data/val/images
+ 
+
+nc: 1
+names: ['face']
